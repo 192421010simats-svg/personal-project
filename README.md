@@ -1,1 +1,1 @@
-# personal-project
+git clone <repository_url>
